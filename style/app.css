@@ -1,0 +1,21 @@
+body{
+    height: 100%;
+}
+
+#index-banner {
+    background-image: url("../public/home-background.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.brand-logo img {
+    width: 60px;
+    height: auto;
+    margin-top: 25%;
+    /*margin-left: 15%;*/
+}
+
+footer.page-footer{
+    margin-top: 0px;
+}
